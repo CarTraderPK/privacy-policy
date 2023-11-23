@@ -6,7 +6,7 @@ Welcome to Car Trader PK, an online car auction platform. This Privacy Policy ou
 
 ### Effective Date: November 23, 2023
 
-##Scope and Updates
+### Scope and Updates
 
 This Privacy Policy applies to your use of the Car Trader PK App and all associated services, products, and tools ("Services"). It is applicable regardless of how you access or use these services, including access via mobile devices and apps. We may update this Privacy Policy, and any amendments will be effective when posted on this page.
 
